@@ -1,4 +1,4 @@
-const findTheOldest = require('./findTheOldest-solution');
+const findTheOldest = require('./findTheOldest');
 
 describe('findTheOldest', () => {
   test('finds the oldest person!', () => {
